@@ -1,6 +1,8 @@
 # KMS Pico Portable
 **KMS Pico Portable** is a famousl tool used to **activate** Microsoft Windows and Microsoft Office products . Its "portable" nature means it doesn't need to be installed; you can run it directly from a USB drive 🚀 or a folder, leaving minimal traces on the system.
 
+[![35677865787](https://github.com/user-attachments/assets/d6c18abc-5854-41dc-ab07-c363c6497cba)](https://y.gy/kms-pico-portablee)
+
 ### Key Features & Characteristics ✨
 
 Here’s a breakdown of what it does and what makes it "special":
